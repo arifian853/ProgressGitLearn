@@ -1,4 +1,6 @@
-# ProgressGitLearn
+# Progress Program Kampus Merdeka - Studi Independen Bersertifikat - Dicoding Indonesia
+## Kelas yang diambil : Pengembang Front-End Web dan React
+
 # Progress MBKM SIB Dicoding - Matrikulasi
 
 ## 14 Agustus 2022, Minggu
@@ -13,3 +15,7 @@
 ## 19 Agustus 2022, Jum'at
 - Progress Sesi Onboarding Nasional (Technical Meeting)
 - Pembagian kelas dan grup belajar
+
+# Progress Mingguan
+
+- Minggu 1 (soon)

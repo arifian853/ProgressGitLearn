@@ -10,6 +10,6 @@
 ## 15 Agustus 2022, Senin
 - Progress Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
 
-## 18 Agustus 2022, Kamis
+## 19 Agustus 2022, Jum'at
 - Progress Sesi Onboarding Nasional (Technical Meeting)
 - Pembagian kelas dan grup belajar

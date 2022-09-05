@@ -1,7 +1,7 @@
 # Progress Program Kampus Merdeka - Studi Independen Bersertifikat - Dicoding Indonesia
 ## Kelas yang diambil : Pengembang Front-End Web dan React
 
-# Progress MBKM SIB Dicoding - Matrikulasi
+## #Minggu 1, 14 - 19 Agustus 2022, Progress Matrikulasi
 
 ## 14 Agustus 2022, Minggu
 - Progress Pengenalan Ke Logika Pemrograman 101
@@ -18,7 +18,7 @@
 
 # Progress Mingguan
 
-## Minggu 1 22 - 26 Agustus 2022
+## #Minggu 2, 22 - 26 Agustus 2022
 
 ### 22 Agustus 2022, Senin
 - Hari ini mulai dibagi beberapa hal penting seperti undangan kegiatan pre-activity, pembagian akun kredensial khusus, pembagian grup belajar dan link Discord, serta pembagian acceptance letter.
@@ -34,3 +34,13 @@
 
 ### 26 Agustus 2022, Jum'at
 - Hari ini tidak ada aktivitas khusus dari mitra, dilanjutkan dengan belajar mandiri dari materi yang ada di situs utama mitra.
+
+## #Minggu 3, 29 - 02 September 2022
+
+## #Minggu 3, 05 - 09 September 2022
+
+## #Minggu 4 -
+
+## #Minggu 5 -
+
+

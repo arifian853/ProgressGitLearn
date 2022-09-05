@@ -18,4 +18,19 @@
 
 # Progress Mingguan
 
-- Minggu 1 (soon)
+## Minggu 1 22 - 26 Agustus 2022
+
+### 22 Agustus 2022, Senin
+- Hari ini mulai dibagi beberapa hal penting seperti undangan kegiatan pre-activity, pembagian akun kredensial khusus, pembagian grup belajar dan link Discord, serta pembagian acceptance letter.
+
+### 23 Agustus 2022, Selasa
+- Hari ini mulai dibagi beberapa hal penting seperti undangan kegiatan pre-activity, pembagian akun kredensial khusus, pembagian grup belajar dan link Discord, serta pembagian acceptance letter.
+
+### 24 Agustus 2022, Rabu
+- Hari ini tidak ada aktivitas khusus dari mitra, dilanjutkan dengan belajar mandiri dari materi yang ada di situs utama mitra. Yaitu materi Pemrograman Web Dasar.
+
+### 25 Agustus 2022, Kamis
+- Hari ini tidak ada kegiatan dari mitra, dilanjutkan dengan belajar mandiri di kelas dasar yang diberikan mitra dan mengerjakan tugas  assignment dari kelas yang diberikan yaitu kelas Pemrograman Web Dasar serta hari ini juga saya mengantarkan assignment sebelum deadline.
+
+### 26 Agustus 2022, Jum'at
+- Hari ini tidak ada aktivitas khusus dari mitra, dilanjutkan dengan belajar mandiri dari materi yang ada di situs utama mitra.

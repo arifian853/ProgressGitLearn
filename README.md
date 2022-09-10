@@ -5,17 +5,17 @@
 
 ## #Minggu 1, 14 - 19 Agustus 2022, Progress Matrikulasi
 
-## 14 Agustus 2022, Minggu
+### 14 Agustus 2022, Minggu
 - Progress Pengenalan Ke Logika Pemrograman 101
 
-## 15 Agustus 2022, Senin
+### 15 Agustus 2022, Senin
 - Progress Belajar Dasar Git dengan GitHub
 - Progress Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
 
-## 18 Agustus 2022, Kamis
+### 18 Agustus 2022, Kamis
 - Kegiatan hari ini dibuka pada jam 13.00 WIB dengan bergabung dalam pertemuan virtual Zoom Meeting atau dengan menonton live stream pertemuan virtual melalui kanal YouTube resmi Ditjen Diktiristek. Setelahnya, di tengah pertemuan terdapat pengisian absen baik dari mitra maupun dari Kemendikbud. Pertemuan virtual hari ini membahas tentang perpisahan untuk peserta MSIB angkatan 2 serta penyambutan peserta MSIB angkatan 3, selain itu, pertemuan ini juga membahas testimoni dari beberapa mitra, mahasiswa serta beberapa wejangan dari mitra lainnya. Kegiatan ini juga dirangkap dengan onboarding nasional untuk seluruh peserta baru MSIB Angkatan 3.
 
-## 19 Agustus 2022, Jum'at
+### 19 Agustus 2022, Jum'at
 - Progress Sesi Onboarding Nasional (Technical Meeting)
 - Pembagian kelas dan grup belajar
 

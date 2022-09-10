@@ -1,5 +1,6 @@
 # Progress Program Kampus Merdeka - Studi Independen Bersertifikat - Dicoding Indonesia
 ## Kelas yang diambil : Pengembang Front-End Web dan React
+## Periode Kegiatan : 18 Agustus - 31 Desember 2022
 
 # Progress Mingguan dan harian
 

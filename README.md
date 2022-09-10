@@ -56,15 +56,19 @@ dari kelas  yang diberikan oleh mitra yaitu kelas Belajar Membuat Front End Web 
 ## #Minggu 3, 05 - 09 September 2022
 
 ### 5 September 2022, Senin
--
+- Hari ini tidak ada aktivitas khusus dari mitra, dilanjutkan dengan belajar mandiri dari materi yang ada di situs utama mitra dari jam 11.00 hingga jam 14.00. Selanjutnya dilanjutkan dengan kegiatan ILT dari mitra yang membahas tentang pentingnya memiliki growth mindset yaitu sebuah pemikiran dimana sebuah bakat yang dimiliki dari lahir adalah hal yang dapat diasah oleh siapapun baik dia lahir dengan bakat tersebut atau tidak, sehingga semua orang memiliki kesempatan untuk bertumbuh. Sesi ini dimulai dari 15.30 hingga 17.30 dengan membahas tentang growth mindset, personality development, dan diakhiri dengan pemberian tugas oleh pengisi materi dan juga kuis singkat. Terakhir setelah diadakan kuis, peserta diminta mengisi feedback untuk kegiatan yang baru saja berakhir.
 
 ### 6 September 2022, Selasa
+- Hari ini tidak ada aktivitas khusus dari mitra, dilanjutkan dengan belajar mandiri dari materi yang ada di situs utama mitra dari jam 15.50 hingga jam 18.00. Selanjutnya dilanjutkan dengan kegiatan konsultasi mingguan bersama mentor dan teman-teman sekelas dari kelas FERE-R03 dengan membahas berbagai keluhan dan juga kendala serta pesan dan kesan selama 1 bulan mengikuti kegiatan SIB bersama mitra Dicoding Academy.
 
 ### 7 September 2022, Rabu
+- Hari ini tidak ada aktivitas khusus dari mitra, dilanjutkan dengan belajar mandiri dari materi / kelas yang ada di situs utama mitra.
 
 ### 8 September 2022, Kamis
+- Hari ini tidak ada aktivitas khusus dari mitra, dilanjutkan dengan belajar mandiri dan mengerjakan submission dari materi yang ada di situs utama mitra. Lalu diadakan sesi Sosialisasi Platform dan Basic Soft Skill Magang dan Studi Independen pada 8.30 di kanal YouTube MSIB Kampus Merdeka.
 
 ### 9 September 2022, Jum'at
+- Hari ini tidak ada aktivitas khusus dari mitra, dilanjutkan dengan belajar mandiri dari materi / kelas dan mengerjakan submission yang ada di situs utama mitra. Lalu juga terdapat kegiatan bersama mentor dengan membahas bahasa pemrograman JavaScript untuk tugas submission pada jam 7 malam.
 
 ## #Minggu 4 -
 

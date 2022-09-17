@@ -1,4 +1,4 @@
-# Progress Program Kampus Merdeka - Studi Independen Bersertifikat - Dicoding Indonesia
+# LogBook Progress Program Kampus Merdeka - Studi Independen Bersertifikat - Dicoding Indonesia
 ## Kelas yang diambil : Pengembang Front-End Web dan React
 ## Periode Kegiatan : 18 Agustus - 31 Desember 2022
 
@@ -55,7 +55,7 @@ dari kelas  yang diberikan oleh mitra yaitu kelas Belajar Membuat Front End Web 
 ### 2 September 2022, Jum'at
 - Hari ini tidak ada aktivitas khusus dari mitra, dilanjutkan dengan belajar mandiri dari materi yang ada di situs utama mitra.
 
-## #Minggu 3, 05 - 09 September 2022
+## #Minggu 4, 05 - 09 September 2022
 
 ### 5 September 2022, Senin
 - Hari ini tidak ada aktivitas khusus dari mitra, dilanjutkan dengan belajar mandiri dari materi yang ada di situs utama mitra dari jam 11.00 hingga jam 14.00. Selanjutnya dilanjutkan dengan kegiatan ILT dari mitra yang membahas tentang pentingnya memiliki growth mindset yaitu sebuah pemikiran dimana sebuah bakat yang dimiliki dari lahir adalah hal yang dapat diasah oleh siapapun baik dia lahir dengan bakat tersebut atau tidak, sehingga semua orang memiliki kesempatan untuk bertumbuh. Sesi ini dimulai dari 15.30 hingga 17.30 dengan membahas tentang growth mindset, personality development, dan diakhiri dengan pemberian tugas oleh pengisi materi dan juga kuis singkat. Terakhir setelah diadakan kuis, peserta diminta mengisi feedback untuk kegiatan yang baru saja berakhir.
@@ -72,7 +72,7 @@ dari kelas  yang diberikan oleh mitra yaitu kelas Belajar Membuat Front End Web 
 ### 9 September 2022, Jum'at
 - Hari ini tidak ada aktivitas khusus dari mitra, dilanjutkan dengan belajar mandiri dari materi / kelas dan mengerjakan submission yang ada di situs utama mitra. Lalu juga terdapat kegiatan bersama mentor dengan membahas bahasa pemrograman JavaScript untuk tugas submission pada jam 7 malam.
 
-## #Minggu 4 - 12 - 16 September 2022
+## #Minggu 5, 12 - 16 September 2022
 
 ### 12 September 2022, Senin
 - Hari ini tidak ada aktivitas khusus dari mitra, dilanjutkan dengan belajar mandiri dari materi yang ada di situs utama mitra. dan juga mengerjakan submission dari kelas yang disediakan mitra.
@@ -91,7 +91,7 @@ Selanjutnya hari ini kegiatan saya adalah berfokus dengan mengerjakan submission
 ### 16 September 2022, Jum'at
 - Hari ini kegiatan saya adalah berfokus dengan mengerjakan submission dari kelas yang ada pada situs utama mitra dimulai dari jam 19.00 hingga 21.05, yaitu submission untuk membuat sebuah Bookshelf App menggunakan HTML, CSS, JavaScript dengan metode manipulasi DOM (Document Object Model) dan penggunaan localStorage. Terakhir saya mengumpulkannya pada situs utama mitra pada jam 21.00
 
-## #Minggu 6 - 19 - 23 September 2022
+## #Minggu 6, 19 - 23 September 2022
 
 ### 19 September 2022, Senin
 
@@ -103,7 +103,7 @@ Selanjutnya hari ini kegiatan saya adalah berfokus dengan mengerjakan submission
 
 ### 23 September 2022, Jum'at
 
-## #Minggu 6 - 25 - 29 September 2022
+## #Minggu 7, 25 - 29 September 2022
 
 ### 25 September 2022, Senin
 

@@ -72,8 +72,47 @@ dari kelas  yang diberikan oleh mitra yaitu kelas Belajar Membuat Front End Web 
 ### 9 September 2022, Jum'at
 - Hari ini tidak ada aktivitas khusus dari mitra, dilanjutkan dengan belajar mandiri dari materi / kelas dan mengerjakan submission yang ada di situs utama mitra. Lalu juga terdapat kegiatan bersama mentor dengan membahas bahasa pemrograman JavaScript untuk tugas submission pada jam 7 malam.
 
-## #Minggu 4 -
+## #Minggu 4 - 12 - 16 September 2022
 
-## #Minggu 5 -
+### 12 September 2022, Senin
+- Hari ini tidak ada aktivitas khusus dari mitra, dilanjutkan dengan belajar mandiri dari materi yang ada di situs utama mitra. dan juga mengerjakan submission dari kelas yang disediakan mitra.
+
+### 13 September 2022, Selasa
+- Kegiatan hari ini dimulai dengan student team meeting melalui kanal YouTube Dicoding Indonesia dengan membahas mengenai milestone progress, tentang absensi, sistem pembagian proyek capstone serta informasi progress dan rencana kegiatan secara mendetail.
+Lalu pada malam harinya dilanjutkan dengan membahas berbagai hal baik tentang grup belajar, tentang pembagian grup belajar untuk capstone proyek dan lainnya bersama mentor.
+
+### 14 September 2022, Rabu
+- Pada hari ini kegiatan saya adalah berfokus dengan mengerjakan submission dari kelas yang ada pada situs utama mitra, yaitu submission untuk membuat sebuah Bookshelf App menggunakan HTML, CSS, JavaScript dengan metode manipulasi DOM (Document Object Model) dan penggunaan localStorage. Tidak ada kegiatan khusus dari mitra seperti sesi ILT, konsultasi mingguan maupun student team meeting.
+
+### 15 September 2022, Kamis
+- Kegiatan saya hari ini dimulai dengan kegiatan ILT yang diadakan oleh mitra yang dimulai pada jam 13.00, pada kegiatan ini banyak sekali dibahas tentang JavaScript secara mendalam seperti membahas tentang deklarasi variabel, reassignment variabel, looping, percabangan, browser object model, document object model, dan juga localStorage. Kegiatan ini seperti biasanya diakhiri dengan sesi kuis singkat dan juga sesi tanya jawab pada penutup. Kegiatan berakhir pada pukul 15.00.
+Selanjutnya hari ini kegiatan saya adalah berfokus dengan mengerjakan submission dari kelas yang ada pada situs utama mitra dimulai dari jam 18.00 hingga 22.40, yaitu submission untuk membuat sebuah Bookshelf App menggunakan HTML, CSS, JavaScript dengan metode manipulasi DOM (Document Object Model) dan penggunaan localStorage. .
+
+### 16 September 2022, Jum'at
+- Hari ini kegiatan saya adalah berfokus dengan mengerjakan submission dari kelas yang ada pada situs utama mitra dimulai dari jam 19.00 hingga 21.05, yaitu submission untuk membuat sebuah Bookshelf App menggunakan HTML, CSS, JavaScript dengan metode manipulasi DOM (Document Object Model) dan penggunaan localStorage. Terakhir saya mengumpulkannya pada situs utama mitra pada jam 21.00
+
+## #Minggu 6 - 19 - 23 September 2022
+
+### 19 September 2022, Senin
+
+### 20 September 2022, Selasa
+
+### 21 September 2022, Rabu
+
+### 22 September 2022, Kamis
+
+### 23 September 2022, Jum'at
+
+## #Minggu 6 - 25 - 29 September 2022
+
+### 25 September 2022, Senin
+
+### 26 September 2022, Selasa
+
+### 27 September 2022, Rabu
+
+### 28 September 2022, Kamis
+
+### 29 September 2022, Jum'at
 
 

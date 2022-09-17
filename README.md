@@ -105,14 +105,14 @@ Selanjutnya hari ini kegiatan saya adalah berfokus dengan mengerjakan submission
 
 ## #Minggu 7, 25 - 29 September 2022
 
-### 25 September 2022, Senin
+### 26 September 2022, Senin
 
-### 26 September 2022, Selasa
+### 27 September 2022, Selasa
 
-### 27 September 2022, Rabu
+### 28 September 2022, Rabu
 
-### 28 September 2022, Kamis
+### 29 September 2022, Kamis
 
-### 29 September 2022, Jum'at
+### 30 September 2022, Jum'at
 
 

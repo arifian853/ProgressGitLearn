@@ -94,6 +94,7 @@ Selanjutnya hari ini kegiatan saya adalah berfokus dengan mengerjakan submission
 ## #Minggu 6, 19 - 23 September 2022
 
 ### 19 September 2022, Senin
+- Kegiatan saya hari ini  adalah melanjutkan kelas dari mitra yaitu kelas yang berjudul Belajar Fundamental Front-End Web Development yang merupakan kelas untuk membahas JavaScript secara  mendalam.
 
 ### 20 September 2022, Selasa
 
@@ -103,7 +104,7 @@ Selanjutnya hari ini kegiatan saya adalah berfokus dengan mengerjakan submission
 
 ### 23 September 2022, Jum'at
 
-## #Minggu 7, 25 - 29 September 2022
+## #Minggu 7, 26 - 29 September 2022
 
 ### 26 September 2022, Senin
 

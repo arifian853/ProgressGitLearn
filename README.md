@@ -97,8 +97,17 @@ Selanjutnya hari ini kegiatan saya adalah berfokus dengan mengerjakan submission
 - Kegiatan saya hari ini  adalah melanjutkan kelas dari mitra yaitu kelas yang berjudul Belajar Fundamental Front-End Web Development yang merupakan kelas untuk membahas JavaScript secara  mendalam.
 
 ### 20 September 2022, Selasa
+- Kegiatan saya hari ini adalah melanjutkan kelas dari mitra yaitu kelas
+yang berjudul Belajar Fundamental Front-End Web Development yang
+merupakan kelas untuk membahas JavaScript secara mendalam. Lalu
+dilanjutkan dengan Konsultasi Mingguan bersama mentor pembimbing
+pada jam 18.30 WIB sampai dengan jam 19.30 WIB dengan membahas
+mengenai study group, keluhan mengenai submission dan materi kelas
+dari mitra, selain itu terdapat juga sesi ice breaking atau bermain game
+bersama teman-teman sekelas di R03 dan juga bersama mentor.
 
 ### 21 September 2022, Rabu
+- Kegiatan saya hari ini  adalah melanjutkan kelas dari mitra yaitu kelas yang berjudul Belajar Fundamental Front-End Web Development yang merupakan kelas untuk membahas JavaScript secara  mendalam dan saya telah mencapai pada materi ECMAScript 6 dan melanjutkan sampai materi Web Component
 
 ### 22 September 2022, Kamis
 

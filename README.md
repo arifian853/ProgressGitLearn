@@ -110,8 +110,10 @@ bersama teman-teman sekelas di R03 dan juga bersama mentor.
 - Kegiatan saya hari ini  adalah melanjutkan kelas dari mitra yaitu kelas yang berjudul Belajar Fundamental Front-End Web Development yang merupakan kelas untuk membahas JavaScript secara  mendalam dan saya telah mencapai pada materi ECMAScript 6 dan melanjutkan sampai materi Web Component
 
 ### 22 September 2022, Kamis
+- Kegiatan saya hari ini  adalah melanjutkan kelas dari mitra yaitu kelas yang berjudul Belajar Fundamental Front-End Web Development yang merupakan kelas untuk membahas JavaScript secara  mendalam dan saya telah mencapai pada ujung materi Web Component. Selanjutnya pada jam 13.00 WIB dimulai sesi ILT bersama mitra dengan judul Ethical Behaviour and Adaptability : Make Yourself Presentable, membahas tentang penerapan prinsip-prinsip moral yang sesuai dengan standar perilaku dan peraturan yang berlaku serta selaras dengan nilai dan budaya  organisasi atau sekelompok masyarakat. Selain itu, materi hari ini juga membahas dan mendiskusikan bagaimana fenomena quiet quitting menjadi salah satu cara menyeimbangkan work-life balance dan mendiskusikan tentang etis atau tidaknya perilaku tersebut sebagai karyawan. Selanjutnya juga dibahas tentang bagaimana adaptasi seseorang sangat berpengaruh terhadap kualitas hidup di tempat yang baru serta adaptasi terhadap arus global seperti meningkatnya daya saing di dunia. Kegiatan ini ditutup dengan mengisi feedback serta mengerjakan kuis dari pihak mitra.
 
 ### 23 September 2022, Jum'at
+- Kegiatan saya hari ini  adalah melanjutkan kelas dari mitra yaitu kelas yang berjudul Belajar Fundamental Front-End Web Development yang merupakan kelas untuk membahas JavaScript secara  mendalam dan saya telah mencapai pada ujung materi JavaScript Asynchronous dan akan memulai mengerjakan submission.
 
 ## #Minggu 7, 26 - 29 September 2022
 

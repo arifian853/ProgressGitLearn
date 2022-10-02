@@ -115,16 +115,60 @@ bersama teman-teman sekelas di R03 dan juga bersama mentor.
 ### 23 September 2022, Jum'at
 - Kegiatan saya hari ini  adalah melanjutkan kelas dari mitra yaitu kelas yang berjudul Belajar Fundamental Front-End Web Development yang merupakan kelas untuk membahas JavaScript secara  mendalam dan saya telah mencapai pada ujung materi JavaScript Asynchronous dan akan memulai mengerjakan submission.
 
-## #Minggu 7, 26 - 29 September 2022
+## #Minggu 7, 26 - 30 September 2022
 
 ### 26 September 2022, Senin
+- Kegiatan saya hari ini  adalah melanjutkan kelas dari mitra yaitu kelas yang berjudul Belajar Fundamental Front-End Web Development yang merupakan kelas untuk membahas JavaScript secara  mendalam dan saya sedang berfokus mengerjakan submission.
 
 ### 27 September 2022, Selasa
+- Kegiatan saya hari ini  adalah melanjutkan kelas dari mitra yaitu kelas yang berjudul Belajar Fundamental Front-End Web Development yang merupakan kelas untuk membahas JavaScript secara  mendalam dan saya sedang berfokus mengerjakan submission dan juga terdapat sesi konsultasi dengan mentor membahas tentang keluh kesah selama seminggu belakangan dan bermain games dengan wheel of names untuk menentukan nama siapa yang akan berbicara mengenai kegiatan dan pengalaman. Kegiatan berakhir pada pukul 19.30 dan saya melanjutkan mengerjakan submission.
 
 ### 28 September 2022, Rabu
+- Kegiatan saya hari ini  adalah melanjutkan kelas dari mitra yaitu kelas yang berjudul Belajar Fundamental Front-End Web Development yang merupakan kelas untuk membahas JavaScript secara mendalam dan saya masih berfokus dalam pengerjaan submission. Selain itu, pada jam 13.00 dimulai kegiatan bersama mitra yaitu kegiatan ILT mingguan yang membahas tentang kelas Belajar Fundamental Front-End Web Development secara dalam bersama pengisi materi yang dibawakan mitra. Pada materi yang dibawakan dibahas tentang tata penulisan JavaScript dalam format ES6 atau ECMAScript 6, dimana juga dibahas tentang bagaimana pemanggilan callback, spread operator dalam format penulisan ES6. Terakhir, sesi diakhiri dengan mengerjakan kuis yang diberikan dan kegiatan selesai pada jam 15.00 WIB.
 
 ### 29 September 2022, Kamis
+- Kegiatan saya hari ini  adalah melanjutkan kelas dari mitra yaitu kelas yang berjudul Belajar Fundamental Front-End Web Development yang merupakan kelas untuk membahas JavaScript secara  mendalam dan saya sedang berfokus mengerjakan submission.
 
 ### 30 September 2022, Jum'at
+- Kegiatan saya hari ini  adalah melanjutkan kelas dari mitra yaitu kelas yang berjudul Belajar Fundamental Front-End Web Development yang merupakan kelas untuk membahas JavaScript secara  mendalam dan saya sedang berfokus mengerjakan submission yang sudah pada progress 80%.
 
+## #Minggu 8, 03 - 07 Oktober 2022
+
+### 03 Oktober 2022, Senin
+### 04 Oktober 2022, Selasa
+### 05 Oktober 2022, Rabu
+### 06 Oktober 2022, Kamis
+### 07 Oktober 2022, Jum'at
+
+## #Minggu 9, 10 - 14 Oktober 2022
+
+### 10 Oktober 2022, Senin
+### 11 Oktober 2022, Selasa
+### 12 Oktober 2022, Rabu
+### 13 Oktober 2022, Kamis
+### 14 Oktober 2022, Jum'at
+
+## #Minggu 10, 17 - 21 Oktober 2022
+
+### 17 Oktober 2022, Senin
+### 18 Oktober 2022, Selasa
+### 19 Oktober 2022, Rabu
+### 20 Oktober 2022, Kamis
+### 21 Oktober 2022, Jum'at
+
+## #Minggu 11, 24 - 28 Oktober 2022
+
+### 24 Oktober 2022, Senin
+### 25 Oktober 2022, Selasa
+### 26 Oktober 2022, Rabu
+### 27 Oktober 2022, Kamis
+### 28 Oktober 2022, Jum'at
+
+## #Minggu 12, 31 - 04 November 2022
+
+### 31 Oktober 2022, Senin
+### 1 November 2022, Selasa
+### 2 November 2022, Rabu
+### 3 November 2022, Kamis
+### 4 November 2022, Jum'at
 

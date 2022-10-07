@@ -1,6 +1,10 @@
 # LogBook Progress Program Kampus Merdeka - Studi Independen Bersertifikat - Dicoding Indonesia
 ## Kelas yang diambil : Pengembang Front-End Web dan React
 ## Periode Kegiatan : 18 Agustus - 31 Desember 2022
+## Data yang ada pada repository ini : 
+- Data file submission per kelas
+- Surat dan dokumen penting (CV, SPTJM, Surat Rekomendasi, LoA dll)
+- Laporan harian dalam bentuk pdf (untuk kampus)
 
 # Progress Mingguan dan harian
 

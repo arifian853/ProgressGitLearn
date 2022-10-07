@@ -135,10 +135,19 @@ bersama teman-teman sekelas di R03 dan juga bersama mentor.
 ## #Minggu 8, 03 - 07 Oktober 2022
 
 ### 03 Oktober 2022, Senin
+- Kegiatan saya pada hari ini adalah melanjutkan kelas Belajar Membuat Aplikasi Web dengan React yang membahas dasar-dasar dan juga sejarah dari React, selain itu saya juga berfokus untuk mengerjakan submission akhir dari kelas Fundamental Front-End Web Development yang sempat ditolak.
+
 ### 04 Oktober 2022, Selasa
+- Kegiatan saya pada hari ini adalah melanjutkan kelas Belajar Membuat Aplikasi Web dengan React yang membahas dasar-dasar dan juga sejarah dari React, selain itu saya juga menghadiri Student Meeting pada kanal YouTube Dicoding pada jam 13.00 sampai jam 14.00 WIB dengan membahas mengenai insentif dari pihak mitra dan juga membahas tentang Capstone Project, tema yang ditawarkan, dan juga instruksi mengenai tim Capstone. Selain itu juga pada jam 18.30 hingga jam 19.30 WIB terdapat kegiatan konsultasi mingguan bersama mentor membahas tentang hal-hal yang harus dilengkapi dan juga tentang Capstone Project.
+
 ### 05 Oktober 2022, Rabu
+- Kegiatan saya pada hari ini adalah mengerjakan tugas dari submission kelas Fundamental Front-End Web Development, dan juga melanjutkan kelas Dasar-dasar React.
+
 ### 06 Oktober 2022, Kamis
+- Kegiatan saya pada hari ini adalah mengikuti kegiatan ILT Soft Skill dengan
+mitra yang dimulai pada jam 15.30 WIB yang membahas tentang bagaimana cara berkomunikasi dengan baik serta membentuk koneksi dengan orang-orang di tempat baru. Kegiatan berakhir pada jam 17.40
 ### 07 Oktober 2022, Jum'at
+- Kegiatan saya pada hari ini adalah melanjutkan kelas Belajar Membuat Aplikasi Web dengan React yang membahas dasar-dasar dan juga sejarah dari React dan juga sintaks penulisan React. Selain itu saya juga berfokus untuk mengerjakan submission akhir dari kelas Fundamental Front-End Web Development yang sempat ditolak.
 
 ## #Minggu 9, 10 - 14 Oktober 2022
 

@@ -199,7 +199,8 @@ mitra yang dimulai pada jam 15.30 WIB yang membahas tentang bagaimana cara berko
 - Kegiatan saya pada hari ini adalah menyelesaikan  tugas submission dari kelas Membuat Aplikasi Web dengan React yang diminta untuk membuat aplikasi pencatatan menggunakan React State dan Props. Lalu terdapat sesi ILT FERE yang membahas tentang PWA atau Progressive Web Apps dan kelebihannya, diakhiri dengan bermain bersama mentor dan pengisi materi.
 
 ### 27 Oktober 2022, Kamis
--
+- Kegiatan saya pada hari ini adalah menyelesaikan  tugas submission dari kelas Membuat Aplikasi Web dengan React yang diminta untuk membuat aplikasi pencatatan menggunakan React State dan Props yang sebelumnya sempat ditolak oleh reviewer.
+
 ### 28 Oktober 2022, Jum'at
 -
 

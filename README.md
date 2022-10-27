@@ -156,32 +156,63 @@ mitra yang dimulai pada jam 15.30 WIB yang membahas tentang bagaimana cara berko
 ## #Minggu 9, 10 - 14 Oktober 2022
 
 ### 10 Oktober 2022, Senin
+- Kegiatan saya pada hari ini adalah melanjutkan kelas Belajar Membuat Aplikasi Web dengan React. Selain itu saya juga berfokus untuk mengerjakan submission akhir dari kelas Fundamental Front-End Web Development. Pada jam 19.00 saya menghadiri study group bersama teman satu mentor dan juga bersama mentor untuk membahas beberapa masalah yang ada pada submission.
+
 ### 11 Oktober 2022, Selasa
+- Kegiatan saya hari ini adalah melanjutkan mengerjakan submission dari kelas Fundamental Front-End Web Development yang sebelumnya sempat ditolak karena beberapa kesalahan. Lalu pada jam 18.30 dimulai sesi konsultasi mingguan bersama mentor untuk membahas mengenai lanjutan dari masalah-masalah submission yang ada serta membahas tentang capstone project.
+
 ### 12 Oktober 2022, Rabu
+- Kegiatan saya pada hari ini adalah mengumpulkan tugas submission untuk kelas Front-End Fundamental dan juga melanjutkan progress belajar untuk kelas Belajar Membuat Aplikasi Web dengan React
+
 ### 13 Oktober 2022, Kamis
+- Kegiatan saya hari ini adalah melanjutkan progress belajar dari kelas Belajar Membuat Aplikasi Web dengan React setelah submission dari kelas sebelumnya telah diterima.
+
 ### 14 Oktober 2022, Jum'at
+- Kegiatan saya hari ini adalah mengikuti sesi ILT-FERE-04 yang membahas tentang kelas Belajar Membuat Aplikasi Web dengan React bersama pengisi materi dan juga membahas mengenai seluk-beluk dari React seperti pembuatan komponen, state, props dan lainnya. Selanjutnya saya melanjutkan progress belajar untuk kelas Belajar Membuat Aplikasi Web dengan React.
 
 ## #Minggu 10, 17 - 21 Oktober 2022
 
 ### 17 Oktober 2022, Senin
+- Kegiatan saya hari ini adalah melanjutkan progress kelas Membuat Aplikasi Web dengan React materi stateful components. Selain itu saya juga melakukan diskusi secara daring dengan anggota kelompok Capstone Project untuk membahas proyek yang akan dikerjakan.
+
 ### 18 Oktober 2022, Selasa
+- Kegiatan saya hari ini adalah melanjutkan progress kelas Membuat Aplikasi Web dengan React dan belajar mandiri untuk menguji materi dan latihan yang ada pada kelas.
+
 ### 19 Oktober 2022, Rabu
+- Kegiatan saya hari ini adalah melanjutkan progress kelas Membuat Aplikasi Web dengan React dan belajar mandiri untuk menguji materi dan latihan yang ada pada kelas.
+
 ### 20 Oktober 2022, Kamis
+- Kegiatan saya hari ini adalah melanjutkan progress kelas Membuat Aplikasi Web dengan React dan belajar mandiri untuk menguji materi dan latihan yang ada pada kelas. Lalu terdapat sesi ILT dengan mentor dan juga pengisi materi pada jam 13.00 hingga jam 15.00. Terakhir pada jam 18.30 terdapat kegiatan konsultasi mingguan bersama mentor dan teman-teman sekelas.
+
 ### 21 Oktober 2022, Jum'at
+- Kegiatan saya hari ini adalah melanjutkan progress kelas Membuat Aplikasi Web dengan React dan belajar mandiri untuk menguji materi dan latihan yang ada pada kelas
 
 ## #Minggu 11, 24 - 28 Oktober 2022
 
 ### 24 Oktober 2022, Senin
+- Kegiatan saya pada hari ini adalah menyelesaikan  tugas submission dari kelas Membuat Aplikasi Web dengan React yang diminta untuk membuat aplikasi pencatatan menggunakan React State dan Props.
+
 ### 25 Oktober 2022, Selasa
+- Kegiatan saya pada hari ini adalah menyelesaikan  tugas submission dari kelas Membuat Aplikasi Web dengan React yang diminta untuk membuat aplikasi pencatatan menggunakan React State dan Props. Lalu terdapat sesi konsultasi mingguan bersama mentor pada am 18.30 hingga 19.30 untuk membahas beberapa keluh kesah dan bermain truth or dare.
+
 ### 26 Oktober 2022, Rabu
+- Kegiatan saya pada hari ini adalah menyelesaikan  tugas submission dari kelas Membuat Aplikasi Web dengan React yang diminta untuk membuat aplikasi pencatatan menggunakan React State dan Props. Lalu terdapat sesi ILT FERE yang membahas tentang PWA atau Progressive Web Apps dan kelebihannya, diakhiri dengan bermain bersama mentor dan pengisi materi.
+
 ### 27 Oktober 2022, Kamis
+-
 ### 28 Oktober 2022, Jum'at
+-
 
 ## #Minggu 12, 31 - 04 November 2022
 
 ### 31 Oktober 2022, Senin
+- 
 ### 1 November 2022, Selasa
+- 
 ### 2 November 2022, Rabu
+- 
 ### 3 November 2022, Kamis
+- 
 ### 4 November 2022, Jum'at
+-
 

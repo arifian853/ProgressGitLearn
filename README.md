@@ -202,7 +202,7 @@ mitra yang dimulai pada jam 15.30 WIB yang membahas tentang bagaimana cara berko
 - Kegiatan saya pada hari ini adalah menyelesaikan  tugas submission dari kelas Membuat Aplikasi Web dengan React yang diminta untuk membuat aplikasi pencatatan menggunakan React State dan Props yang sebelumnya sempat ditolak oleh reviewer.
 
 ### 28 Oktober 2022, Jum'at
--
+- Kegiatan saya pada hari ini adalah menyelesaikan  tugas submission dari kelas Membuat Aplikasi Web dengan React yang diminta untuk membuat aplikasi pencatatan menggunakan React State dan Props yang sebelumnya sempat ditolak oleh reviewer. 
 
 ## #Minggu 12, 31 - 04 November 2022
 

@@ -1,7 +1,16 @@
-# LogBook Progress Program Kampus Merdeka - Studi Independen Bersertifikat
-# Mitra :[Dicoding Academy](https://www.dicoding.com/)
+# Logbook Progress Harian Program Kampus Merdeka - Studi Independen Bersertifikat
+# Mitra : [Dicoding Academy](https://www.dicoding.com/)
+
+## Data Diri :
+- ### Nama : Arifian Saputra
+- ### NIM : 2001020029
+- ### Institusi : Universitas Maritim Raja Ali Haji
+- ### Prodi : Teknik Informatika 
+
 ## Kelas yang diambil : Pengembang Front-End Web dan React
+
 ## Periode Kegiatan : 18 Agustus - 31 Desember 2022
+
 ## Data yang ada pada repository ini : 
 - Data file submission per kelas
 - Surat dan dokumen penting (CV, SPTJM, Surat Rekomendasi, LoA dll)
@@ -208,13 +217,27 @@ mitra yang dimulai pada jam 15.30 WIB yang membahas tentang bagaimana cara berko
 ## #Minggu 12, 31 - 04 November 2022
 
 ### 31 Oktober 2022, Senin
-- 
-### 1 November 2022, Selasa
-- 
-### 2 November 2022, Rabu
-- 
-### 3 November 2022, Kamis
-- 
-### 4 November 2022, Jum'at
--
+- Kegiatan saya hari ini adalah memulai kelas baru setelah menyelesaikan kelas Membuat Aplikasi Web dengan React, yaitu kelas Belajar Fundamental Aplikasi Web dengan React dan juga kelas Menjadi Front-End Web Developer Expert
 
+### 1 November 2022, Selasa
+- Kegiatan saya hari ini adalah melanjutkan kelas - kelas yang ada, yaitu kelas Belajar Fundamental Aplikasi Web dengan React dan juga kelas Menjadi Front-End Web Developer Expert. Serta terdapat sesi Student Meeting pada kanal YouTube Dicoding untuk membahas mengenai Capstone Project, kegiatan dimulai pada jam 9 pagi hingga jam 10 pagi. Selanjutnya pada jam 18.30 dimulai pula sesi Konsultasi Mingguan yang membahas tentang jalannya kegiatan Capstone Project, aturan dan juga informasi mengenai advisor. Kegiatan berakhir pada jam 19.30 WIB. 
+
+### 2 November 2022, Rabu
+- Kegiatan saya hari ini adalah melanjutkan kelas - kelas yang ada, yaitu kelas Belajar Fundamental Aplikasi Web dengan React dan juga kelas Menjadi Front-End Web Developer Expert.
+
+### 3 November 2022, Kamis
+- Kegiatan saya hari ini adalah melanjutkan kelas - kelas yang ada, yaitu kelas Belajar Fundamental Aplikasi Web dengan React dan juga kelas Menjadi Front-End Web Developer Expert. Selain itu terdapat sesi ILT SS pada jam 15.30 yang membahas tentang Personal Branding bersama pengisi materi. Kegiatan berakhir pada jam 17.30.
+
+### 4 November 2022, Jum'at
+- Kegiatan saya hari ini adalah melanjutkan kelas - kelas yang ada, yaitu kelas Belajar Fundamental Aplikasi Web dengan React dan juga kelas Menjadi Front-End Web Developer Expert.
+
+## #Minggu 13, 07 - 11 November 2022
+
+### 7 November 2022, Senin
+### 8 November 2022, Selasa
+### 9 November 2022, Rabu
+### 10 November 2022, Kamis
+### 11 November 2022, Jum'at
+
+## #Minggu 14, 14 - 19 November 2022
+## #Minggu 15, 22 - 27 November 2022

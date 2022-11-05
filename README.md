@@ -2,10 +2,10 @@
 # Mitra : [Dicoding Academy](https://www.dicoding.com/)
 
 ## Data Diri :
-- ### Nama : Arifian Saputra
-- ### NIM : 2001020029
-- ### Institusi : Universitas Maritim Raja Ali Haji
-- ### Prodi : Teknik Informatika 
+- Nama : Arifian Saputra
+- NIM : 2001020029
+- Institusi : Universitas Maritim Raja Ali Haji
+- Prodi : Teknik Informatika 
 
 ## Kelas yang diambil : Pengembang Front-End Web dan React
 

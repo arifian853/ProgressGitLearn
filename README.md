@@ -1,4 +1,5 @@
-# LogBook Progress Program Kampus Merdeka - Studi Independen Bersertifikat - Dicoding Indonesia
+# LogBook Progress Program Kampus Merdeka - Studi Independen Bersertifikat
+# Mitra :[Dicoding Academy](https://www.dicoding.com/)
 ## Kelas yang diambil : Pengembang Front-End Web dan React
 ## Periode Kegiatan : 18 Agustus - 31 Desember 2022
 ## Data yang ada pada repository ini : 

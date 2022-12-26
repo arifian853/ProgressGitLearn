@@ -1,5 +1,5 @@
 # Logbook Progress Harian Program Kampus Merdeka - Studi Independen Bersertifikat
-# Mitra : [Dicoding Academy](https://www.dicoding.com/)
+# Mitra : [Dicoding Indonesia](https://www.dicoding.com/)
 
 ## Data Diri :
 - Nama : Arifian Saputra

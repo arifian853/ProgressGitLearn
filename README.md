@@ -1,4 +1,4 @@
-# Logbook Progress Harian Program Kampus Merdeka - Studi Independen Bersertifikat
+# Logbook Progress Harian Program Kampus Merdeka - Studi Independen Bersertifikat Batch 3
 # Mitra : [Dicoding Indonesia](https://www.dicoding.com/)
 
 ## Data Diri :
